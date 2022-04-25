@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bahri Chams Eddine</h1>
 <h3 align="center">A software engineer passionate with full_stack java developer from Tunisiaa</h3>
 <br/>
- <img src="https://avatars.githubusercontent.com/u/72990961?v=4" alt="coding mood" align="right" width="400px">
+ <img src="https://image.shutterstock.com/z/stock-vector-young-man-programmer-working-on-computer-with-code-on-screen-student-programming-vector-concept-741320251.jpg" alt="coding mood" align="right" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chams16&label=Profile%20views&color=0e75b6&style=flat" alt="chams16" /> </p>
 
 - 🌱 I’m currently learning **elasticksearch, JEE, microservice**
